@@ -12,29 +12,10 @@ Cursando primer año del Grado en Ingeniería Informática. Me interesa entender
 
 ## Stack
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <sub><code>&lt; LENGUAJES &gt;</code></sub>
-      <br/><b>C++ · HTML · CSS</b>
-    </td>
-    <td width="33%" valign="top">
-      <sub><code>&lt; HERRAMIENTAS &gt;</code></sub>
-      <br/><b>Git · Make · Vim</b>
-    </td>
-    <td width="34%" valign="top">
-      <sub><code>&lt; ENTORNO &gt;</code></sub>
-      <br/><b>Ubuntu</b>
-    </td>
-  </tr>
-</table>
-
-<img src="https://skillicons.dev/icons?i=cpp,html,css,git,vim,ubuntu&theme=dark" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,git&theme=dark" alt="Stack" />
 
 ## Proyectos
 
 | Proyecto | Descripción |
 |---|---|
 | [dotfiles](https://github.com/edgarmgg/dotfiles) | Configuración reproducible de Ubuntu (bash, vim, tmux, VS Code, tema de terminal) con instalador basado en GNU Stow. |
-
-<sub>Parte de mi código (prácticas de la universidad, entre otras) está en repositorios privados.</sub>
