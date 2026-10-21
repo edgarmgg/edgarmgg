@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,vim,ubuntu&theme=dark" alt="C++, Vim, Ubuntu">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,git,vim" alt="C++, Git, Vim">
 </p>
 
 ---
