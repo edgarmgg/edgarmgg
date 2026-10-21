@@ -16,6 +16,8 @@ Cursando primer año del Grado en Ingeniería Informática. Me interesa entender
 
 <div align="center">
   <img src="assets/setup.png" alt="Mi terminal: Ptyxis con fastfetch en Ubuntu" width="100%">
+  <br>
+  <sub>Ptyxis + fastfetch en Ubuntu 26.04</sub>
 </div>
 
 ## 📦 Proyectos
