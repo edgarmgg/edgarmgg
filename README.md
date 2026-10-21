@@ -14,10 +14,8 @@
 
 Cursando primer año del Grado en Ingeniería Informática. Me interesa entender cómo funcionan las cosas por dentro: depurar errores hasta encontrar su causa real y automatizar el trabajo repetitivo.
 
-<div align="right">
-  <img src="assets/setup.jpg" alt="Mi escritorio: Ubuntu con terminal Ptyxis y fastfetch" width="100%">
-  <br>
-  <sub>Wallpaper: <em>Ask a friend</em>, de osselo</sub>
+<div align="center">
+  <img src="assets/setup.png" alt="Mi terminal: Ptyxis con fastfetch en Ubuntu" width="100%">
 </div>
 
 ## 📦 Proyectos
