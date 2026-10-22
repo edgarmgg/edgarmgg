@@ -1,0 +1,13 @@
+# Ejecutables de Windows
+*.exe
+
+# Ejecutables de Linux / macOS (compilar con -o nombre.out)
+*.out
+*.app
+
+# Archivos objeto y depuración
+*.o
+*.obj
+*.dSYM/
+
+bin/
