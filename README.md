@@ -5,14 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,git,vim" alt="C, C++, Git, Vim">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,git,vim" alt="C++, Git, Vim">
 </p>
 
 ---
 
 ## 🎓 About me
 
-First-year Computer Engineering student. I like understanding how things work under the hood: debugging until I find the real root cause and automating repetitive work.
+I'm a first-year Computer Engineering student who wants to know not just that something works, but why. I enjoy tracking a bug down to its real root cause, reading the code and tools I depend on, and turning repetitive tasks into scripts.
+
+I'm learning C++ and systems programming, and I keep my whole development environment in code, so I can rebuild it on any machine with one command.
 
 ## 📚 Learning
 
