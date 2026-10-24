@@ -12,9 +12,7 @@
 
 ## 🎓 About me
 
-I'm a first-year Computer Engineering student who wants to know not just that something works, but why. I enjoy tracking a bug down to its real root cause, reading the code and tools I depend on, and turning repetitive tasks into scripts.
-
-I'm learning C++ and systems programming, and I keep my whole development environment in code, so I can rebuild it on any machine with one command.
+I'm a first-year Computer Engineering student who wants to know not just that something works, but why. Now working on improving my skills and learning useful technologies.
 
 ## 📚 Learning
 
