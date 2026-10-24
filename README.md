@@ -16,16 +16,16 @@ First-year Computer Engineering student. I like understanding how things work un
 
 ## 📚 Learning
 
-- **C++**: following the Google C++ Style Guide.
-- **Python**: scripting and automation.
-- **Rust**: memory safety and systems programming.
-- **Docker**: containers and reproducible environments.
+- <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++" height="18"> **C++**: following the Google C++ Style Guide.
+- <img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="Python" height="18"> **Python**: scripting and automation.
+- <img src="https://go-skill-icons.vercel.app/api/icons?i=rust" alt="Rust" height="18"> **Rust**: memory safety and systems programming.
+- <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="Docker" height="18"> **Docker**: containers and reproducible environments.
 
 ## 📦 Projects
 
 | Project | Description |
 |---|---|
-| [dotfiles](https://github.com/edgarmgg/dotfiles) | Reproducible Ubuntu setup (bash, vim, tmux, terminal theme) with a GNU Stow-based installer. |
+| [dotfiles](https://github.com/edgarmgg/dotfiles) | My Ubuntu setup (bash, fish, vim, tmux and a custom terminal theme), installed with a single idempotent script. |
 
 ## 📫 Contact
 
