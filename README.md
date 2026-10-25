@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,git,vim" alt="C++, Git, Vim">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,vim,git" alt="C++, Vim, Git">
 </p>
 
 ---
@@ -17,8 +17,8 @@ I'm a first-year Computer Engineering student who wants to know not just that so
 ## 📚 Learning
 
 - <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++" height="18"> **C++**: following the Google C++ Style Guide.
-- <img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="Python" height="18"> **Python**: scripting and automation.
-- <img src="https://go-skill-icons.vercel.app/api/icons?i=rust" alt="Rust" height="18"> **Rust**: memory safety and systems programming.
+- <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake" alt="Make and CMake" height="18"> **Make and CMake**: automating builds with Makefiles and CMake.
+- <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git" height="18"> **Git**: version control and working with GitHub.
 - <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="Docker" height="18"> **Docker**: containers and reproducible environments.
 
 ## 📦 Projects
