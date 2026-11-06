@@ -1,7 +1,7 @@
 <h1 align="center">Edgar Manuel Gómez García</h1>
 
 <p align="center">
-  Computer Engineering student · Universidad de La Laguna (Tenerife, Spain)
+  Estudiante de Ingeniería Informática · Universidad de La Laguna
 </p>
 
 <p align="center">
@@ -10,23 +10,23 @@
 
 ---
 
-## 🎓 About me
+## 🎓 Sobre mí
 
-I'm a first-year Computer Engineering student who wants to know not just that something works, but why. Now working on improving my skills and learning useful technologies.
+Soy estudiante de primer año de Ingeniería Informática y quiero saber no solo que algo funciona, sino por qué. Ahora mismo estoy mejorando mis habilidades y aprendiendo tecnologías útiles.
 
-## 📚 Learning
+## 📚 Aprendiendo
 
-- <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++" height="18"> **C++**: following the Google C++ Style Guide.
-- <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake" alt="Make and CMake" height="18"> **Make and CMake**: automating builds with Makefiles and CMake.
-- <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git" height="18"> **Git**: version control and working with GitHub.
-- <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="Docker" height="18"> **Docker**: containers and reproducible environments.
+- <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++" height="18"> **C++**: siguiendo la guía de estilo de C++ de Google.
+- <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake" alt="Make y CMake" height="18"> **Make y CMake**: automatizando compilaciones con Makefiles y CMake.
+- <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git" height="18"> **Git**: control de versiones y trabajo con GitHub.
+- <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="Docker" height="18"> **Docker**: contenedores y entornos reproducibles.
 
-## 📦 Projects
+## 📦 Proyectos
 
-| Project | Description |
+| Proyecto | Descripción |
 |---|---|
-| [dotfiles](https://github.com/edgarmgg/dotfiles) | My Ubuntu setup (bash, fish, vim, tmux and a custom terminal theme), installed with a single idempotent script. |
+| [dotfiles](https://github.com/edgarmgg/dotfiles) | Mi configuración de Ubuntu (bash, fish, vim, tmux y un tema de terminal propio), instalada con un único script idempotente. |
 
-## 📫 Contact
+## 📫 Contacto
 
 [edgarmgg1@gmail.com](mailto:edgarmgg1@gmail.com)
