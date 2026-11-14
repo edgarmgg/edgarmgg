@@ -5,17 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="icons/cplusplus.svg" alt="C++" height="40">
-  <img src="icons/vim.svg" alt="Vim" height="40">
-  <img src="icons/git.svg" alt="Git" height="40">
+  <img src="https://skillicons.dev/icons?i=cpp,vim,git" alt="C++, Vim, Git">
 </p>
 
 ## 📚 Aprendiendo
 
-- <img src="icons/cplusplus.svg" alt="C++" height="18"> **C++**: siguiendo la guía de estilo de C++ de Google.
-- <img src="icons/cmake.svg" alt="Make y CMake" height="18"> **Make y CMake**: automatizando compilaciones con Makefiles y CMake.
-- <img src="icons/git.svg" alt="Git" height="18"> **Git**: control de versiones y trabajo con GitHub.
-- <img src="icons/docker.svg" alt="Docker" height="18"> **Docker**: contenedores y entornos reproducibles.
+- <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="18"> **C++**: siguiendo la guía de estilo de C++ de Google.
+- <img src="https://skillicons.dev/icons?i=cmake" alt="Make y CMake" height="18"> **Make y CMake**: automatizando compilaciones con Makefiles y CMake.
+- <img src="https://skillicons.dev/icons?i=git" alt="Git" height="18"> **Git**: control de versiones y trabajo con GitHub.
+- <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="18"> **Docker**: contenedores y entornos reproducibles.
 
 ## 📦 Proyectos
 
