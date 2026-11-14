@@ -8,8 +8,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,vim,git" alt="C++, Vim, Git">
 </p>
 
----
-
 ## 📚 Aprendiendo
 
 - <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++" height="18"> **C++**: siguiendo la guía de estilo de C++ de Google.
