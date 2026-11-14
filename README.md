@@ -10,10 +10,6 @@
 
 ---
 
-## 🎓 Sobre mí
-
-Soy estudiante de primer año de Ingeniería Informática y quiero saber no solo que algo funciona, sino por qué. Ahora mismo estoy mejorando mis habilidades y aprendiendo tecnologías útiles.
-
 ## 📚 Aprendiendo
 
 - <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++" height="18"> **C++**: siguiendo la guía de estilo de C++ de Google.
