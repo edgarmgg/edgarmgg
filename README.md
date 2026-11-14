@@ -10,12 +10,6 @@
   <img src="icons/git.svg" alt="Git" height="40">
 </p>
 
----
-
-## 🎓 Sobre mí
-
-Soy estudiante de primer año de Ingeniería Informática y quiero saber no solo que algo funciona, sino por qué. Ahora mismo estoy mejorando mis habilidades y aprendiendo tecnologías útiles.
-
 ## 📚 Aprendiendo
 
 - <img src="icons/cplusplus.svg" alt="C++" height="18"> **C++**: siguiendo la guía de estilo de C++ de Google.
