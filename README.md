@@ -19,7 +19,7 @@
 
 | Proyecto | Descripción |
 |---|---|
-| [dotfiles](https://github.com/edgarmgg/dotfiles) | Mi configuración de Ubuntu (bash, fish, vim, tmux y un tema de terminal propio), instalada con un único script idempotente. |
+| [dotfiles](https://github.com/edgarmgg/dotfiles) | Mi configuración de Arch Linux (Hyprland, DankMaterialShell, fish, kitty, vim, tmux y GRUB), instalada con un único script idempotente. |
 
 ## 📫 Contacto
 
